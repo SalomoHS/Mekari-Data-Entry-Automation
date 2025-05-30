@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">mekari Data Entry Automation</h3>
+  <h3 align="center">Mekari Data Entry Automation</h3>
 </p>
 
 <p align="center">
