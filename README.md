@@ -22,6 +22,14 @@
 
 ---
 
+### Running Automation
+```python
+mekari-bot.py --number <NUMBER>
+```
+Replace `<NUMBER>` with number of card that want to entry
+
+---
+
 ### Result
 https://github.com/user-attachments/assets/4e2ad792-96f9-4d5d-b0fb-f0b4bb2cbda3
 
